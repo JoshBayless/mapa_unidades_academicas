@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.shp
+*.dbf
+*.shx
+*.cpg
+*.prj
+.vscode/
+*.ipynb
