@@ -13,6 +13,6 @@
     </style>
 </head>
 <body>
-    <iframe src="{{ url_for('static', filename='mapa_unificado.html') }}"></iframe>
+    <iframe src="{{ url_for('static', filename='mapa_uni_academicas.html') }}"></iframe>
 </body>
 </html>
